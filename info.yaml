@@ -35,12 +35,12 @@ documentation:
     - set 2nd hex
     - Enable to send
   outputs:
-    - segment a         # a description of what the outputs do
-    - segment b
-    - segment c
-    - segment d
-    - segment e
-    - segment f
+    - NC         # a description of what the outputs do
+    - NC
+    - NC
+    - NC
+    - NC
+    - NC
     - Clock
     - Data
 
